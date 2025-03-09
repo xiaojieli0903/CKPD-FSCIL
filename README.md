@@ -3,8 +3,8 @@
 This is the official repository for "Continuous Knowledge-Preserving Decomposition for Few-Shot Continual Learning."
 
 > **Continuous Knowledge-Preserving Decomposition for Few-Shot Continual Learning [PDF](https://arxiv.org/abs/2501.05017)**<br>
-> [Xiaojie Li](https://xiaojieli0903.github.io/)^12, [Yibo Yang](https://yibo.yang93.github.io/)^2, [Jianlong Wu](https://wujianlong.hit.github.io)^1, [David A. Clifton](https://scholar.google.com/citations?user=mFN2KJ4AAAAJ&hl=en)^4, [Yue Yu](https://yuyue.github.io/)^2, [Bernard Ghanem](https://www.bernardghanem.com/)^2, [Min Zhang](https://zhangmin2021.hit.github.io)^1<br>
-> ^1Harbin Institute of Technology (Shenzhen), ^2Peng Cheng Laboratory, ^3King Abdullah University of Science and Technology (KAUST), ^4University of Oxford
+> [Xiaojie Li](https://xiaojieli0903.github.io/)^12, [Yibo Yang](https://yibo.yang93.github.io/)^2, [Jianlong Wu](https://wujianlong.hit.github.io)^1, [Jie Liu](https://drjieliu.github.io/)^1, [Yue Yu](https://yuyue.github.io/)^2, [Liqiang Nie](https://liqiangnie.github.io/)^1, [Min Zhang](https://zhangmin2021.hit.github.io)^1<br>
+> ^1Harbin Institute of Technology, Shenzhen ^2Peng Cheng Laboratory ^3King Abdullah University of Science and Technology
 
 ![CKPD-FSCIL Framework](figs/framework.png)
 
@@ -98,7 +98,7 @@ If you find our work useful in your research, please consider citing:
 ```
 @article{li2025continuous,
   title={Continuous Knowledge-Preserving Decomposition for Few-Shot Continual Learning},
-  author={Li, Xiaojie and Yang, Yibo and Wu, Jianlong and Clifton, David A and Yu, Yue and Ghanem, Bernard and Zhang, Min},
+  author={Li, Xiaojie and Yang, Yibo and Wu, Jianlong and Liu, Jie and Yu, Yue and Nie, Liqiang and Zhang, Min},
   journal={arXiv preprint arXiv:2501.05017},
   year={2025}
 }
